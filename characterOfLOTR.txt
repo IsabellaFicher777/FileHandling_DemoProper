@@ -1,0 +1,7 @@
+Boromir
+Gandalf
+Frodo
+Samwise
+Pippin
+Merry
+Sauron

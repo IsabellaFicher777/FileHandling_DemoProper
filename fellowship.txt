@@ -1,0 +1,8 @@
+Frodo - Hobbit
+Samwise - Hobbit
+Gandalf - Maiar
+Legolas - Elf
+Gimli - Dwarf
+Boromir - Man
+Aragorn - Man
+Mariadoc - Hobbit
