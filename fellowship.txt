@@ -6,3 +6,4 @@ Gimli - Dwarf
 Boromir - Man
 Aragorn - Man
 Mariadoc - Hobbit
+Pippin - Hobbit
