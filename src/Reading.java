@@ -21,14 +21,23 @@ public class Reading
 
         int count = 0;
 
+        // Read and display each name
         while(inputFile.hasNextLine())
         {
-            count++;
-            inputFile.nextLine();
+            String line = inputFile.nextLine();
+            if(line.contains(" - "))
+            {
+                String[] parts = line.split(" - ");
+
+                if(parts[1].equals("Hobbit"))
+                {
+                    System.out.println(parts[0]);
+                }
+            }
         }
 
         inputFile.close();
 
-        System.out.println("Total members: " + count);
+        System.out.println("Hobbits of the fellowship: " + count);
     }
 }
